@@ -51,3 +51,12 @@ This repository contains C++ implementations of fractal rendering using OpenGL a
 * Uses GLFW for window creation and input handling.
 * GLEW simplifies OpenGL extension management.
 
+## Results
+![Screenshot 2025-06-08 024204](https://github.com/user-attachments/assets/b57bdc33-9792-4e74-9ad7-e675a0547a0e)
+![Screenshot 2025-06-08 024243](https://github.com/user-attachments/assets/0c9322c5-0ec5-4968-a784-5d686bd039c1)
+![Screenshot 2025-06-08 024350](https://github.com/user-attachments/assets/989cd123-85c2-408e-adea-ecd1d054d013)
+
+
+
+
+
